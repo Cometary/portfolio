@@ -1,8 +1,10 @@
+import './Header.css';
 
 function Header() {
   return(
-    <div>
-      <h1>header</h1>
+    <div className="header">
+      <div>혜성</div>
+      <div><span>HOME</span><span>STACK</span></div>
     </div>
   );
 }
