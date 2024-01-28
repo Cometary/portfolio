@@ -5,7 +5,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: transparent;
+  background: black;
+  color: white;
   /* padding: 16px 0px; */
 }
 
+.header > *{
+  margin: 20px 20px 0 20px;
+}
+.guidance > *{
+  margin: 0 20px 0 20px;
+}

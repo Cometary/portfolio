@@ -1,4 +1,8 @@
 .footer{
+  background-color: black;
+  color: white;
+}
+.footerContent{
   height : 50px;
 }
 .footerSpace{

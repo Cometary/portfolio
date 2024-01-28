@@ -4,7 +4,7 @@ function Header() {
   return(
     <div className="header">
       <div>혜성</div>
-      <div><span>HOME</span><span>STACK</span></div>
+      <div className='guidance'><span>HOME</span><span>STACK</span></div>
     </div>
   );
 }
