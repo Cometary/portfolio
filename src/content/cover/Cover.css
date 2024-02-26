@@ -1,0 +1,23 @@
+.cover{
+  background-image: url('./chalkboard.jpg');
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.coverTop{
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+  margin-bottom: 25px;
+  color: white;
+}
+.coverBottom{
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-bottom: 25px;
+  color: white;
+}
