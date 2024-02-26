@@ -3,7 +3,17 @@
   color: white;
 }
 .footerContent{
-  height : 50px;
+  height : 70px;
+}
+.footerText{
+  display: flex;
+  justify-content: space-between;
+}
+.footerText > div{
+  margin: 10px 20px 0 20px;
+}
+p{
+  margin: 20px 20px 0 20px;
 }
 .footerSpace{
   height: 20px;
